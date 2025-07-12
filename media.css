@@ -1,0 +1,11 @@
+@media only screen and (max-width:600px){
+.new-product{
+    flex-direction: column;
+}
+}
+@media only screen and (max-width:900px){
+    
+    .categeries{
+        position: static;
+    }
+} 
